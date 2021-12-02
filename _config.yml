@@ -1,5 +1,5 @@
 # Site
-repository: safoorsafdar/safoorsafdar
+repository: safoorsafdar/safoorsafdar.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -69,9 +69,43 @@ about_content: | # this will include new lines to allow paragraphs
   - and Consult businesses with their Digital Transformation with Containers and Kubernetes, Monitoring and Observability and Cloud Strategy and Assessment – Adoption & Transformation, Assessment and Optimization, and Application Performance.
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
+      - layout: left
+        title: Nextbridge Ltd.
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Software Engineer
+        caption: Oct 2014 - Oct 2018 - 4 yr 1 mos
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+          - Member of Vteams Star, MEAN and Laravel Trainer, Interviewer, Vteams Research, and Code Reviewer.
+          - Managed various project milestones through the entirety of the SDLC process, Maintain project development roadmap, Prepare application requirement by communication with clients, Provide the solution to resolve various requirements.
+          - Prepared and deployed infrastructure and CI/CD solution on AWS to maintain Laravel SAAS based CRM with separate database multi-tenancy.
+          - Prepared and deployed CI/CD solution for angular, node js, and MongoDB based learning management system on GitLab to deploy on a dedicated host. 
+          - Prepared and deployed solution of nightly build server for angular and node js base unit testing on AWS.
+          - Prepared and deployed infrastructure and CI/CD solution for angular based CRM application on AWS with DeployBot.
+          - Worked on angular based CRM (Customer Relation Management) based on different applications.  
+          - Worked on QA Automation to develop the test cases using Cypress for angular2+ based application.
+          - Developed CRM SASS application based on Laravel with separate database multi-tenancy.
+          - Developed the mobile API for the CRM SASS application.
+          - Managed the AWS services which include EC2, S3, RDS, SES, SQS.
+
+      - layout: right
+        title: Maavra Technologies
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: PHP Developer
+        caption: Jun 2014 - Oct 2014 - 5 mos
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Key Responsibilities:
+          - Taking part in a squad-oriented environment to develop and Maintain complex web-based applications.
+          - Managing existing code base, to include troubleshooting bugs and adding new characteristics
+
       - layout: left
         title: GreenTech International Ltd
         # link: boringcompany.com
