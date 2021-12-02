@@ -9,14 +9,14 @@ version: 2
 name: Safoor Safdar
 title: Cloud Solution Architect / Consultant DevOps
 email: safoor.safdar@gmail.com
-website: 
+website:
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 twitter_username: safoorsafdar
-github_username:  safoorsafdar
+github_username: safoorsafdar
 stackoverflow_username: "1728836"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,9 +31,9 @@ linkedin_username: safoorsafdar
 
 # Additional icon links
 additional_links:
-- title: Schedule a Google Meet
-  icon: far fa-calendar-plus
-  url: https://calendly.com/safoor-safdar/get-to-know
+  - title: Schedule a Google Meet
+    icon: far fa-calendar-plus
+    url: https://calendly.com/safoor-safdar/get-to-know
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -73,6 +73,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: GreenTech International Ltd
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Web Application Developer
+        caption: Jan 2013 - May 2014 - 1 yr 5 mos
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Key Responsibilities:
+          - Managing and developing various Database-driven Websites, Content Management Systems.
+          - Application development using various Web Frameworks (Codeigniter, Zend)
+          - Updating the site with new features, fix application issues and code irregularities.
+          - Preparing manuals of Task Processes, Analyzing, and improvising the procedures used for different tasks.
+
+      - layout: right
+        title: E-till Solution
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: PHP Application Developer
+        caption: Sep 2012 - Dec 2012 - 4 mos
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Key Responsibilities:
+          - Managing and developing various Database-driven Websites, Content Management Systems.
+          - Application development using OOAD, Object Oriented Programming (OOP), and Relational Database Management Systems (RDBMS).
+          - Updating the site with new features, fix application issues and code irregularities.
+          - Convey project requirements, risks as well as assumptions to project team along with client.
+          - Implementing & Analyzing different SEO tasks as per the defined QA processes and standards.
+          - Preparing manuals of Task Processes, analyzing and improvising the procedures used for different tasks.
+      - layout: left
         title: Xpert Solution
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -102,4 +133,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
