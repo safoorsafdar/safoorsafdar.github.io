@@ -73,6 +73,19 @@ content:
     layout: list
     content:
       - layout: left
+        title: Visionet Systems Inc.
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: DevOps/Senior Consultant Cloud Services
+        caption: Oct 2018 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+          - Implemented Observability Framework for Regeneron Pharmaceuticals Inc. as DevOps Consultant.
+          - Prepared multi env Kubernetes cluster using ansible and microservices architect for Dubai Municipality on-site for Mendix platform as DevOps Consultant.
+          - Prepared multi env Kubernetes cluster using ansible for microservices architecture for Nodejs as DevOps Consultant.
+
+      - layout: right
         title: Nextbridge Ltd.
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -93,7 +106,7 @@ content:
           - Developed the mobile API for the CRM SASS application.
           - Managed the AWS services which include EC2, S3, RDS, SES, SQS.
 
-      - layout: right
+      - layout: left
         title: Maavra Technologies
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -106,7 +119,7 @@ content:
           - Taking part in a squad-oriented environment to develop and Maintain complex web-based applications.
           - Managing existing code base, to include troubleshooting bugs and adding new characteristics
 
-      - layout: left
+      - layout: right
         title: GreenTech International Ltd
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -121,7 +134,7 @@ content:
           - Updating the site with new features, fix application issues and code irregularities.
           - Preparing manuals of Task Processes, Analyzing, and improvising the procedures used for different tasks.
 
-      - layout: right
+      - layout: left
         title: E-till Solution
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -137,7 +150,8 @@ content:
           - Convey project requirements, risks as well as assumptions to project team along with client.
           - Implementing & Analyzing different SEO tasks as per the defined QA processes and standards.
           - Preparing manuals of Task Processes, analyzing and improvising the procedures used for different tasks.
-      - layout: left
+
+      - layout: right
         title: Xpert Solution
         # link: boringcompany.com
         # link_text: boringcompany.com
