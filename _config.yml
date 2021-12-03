@@ -80,12 +80,12 @@ content:
         caption: Oct 2018 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
+        description: |
           - Implemented Observability Framework for Regeneron Pharmaceuticals Inc. as DevOps Consultant.
           - Prepared multi env Kubernetes cluster using ansible and microservices architect for Dubai Municipality on-site for Mendix platform as DevOps Consultant.
           - Prepared multi env Kubernetes cluster using ansible for microservices architecture for Nodejs as DevOps Consultant.
 
-      - layout: right
+      - layout: left
         title: Nextbridge Ltd.
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -93,7 +93,7 @@ content:
         caption: Oct 2014 - Oct 2018 - 4 yr 1 mos
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
+        description: |
           - Member of Vteams Star, MEAN and Laravel Trainer, Interviewer, Vteams Research, and Code Reviewer.
           - Managed various project milestones through the entirety of the SDLC process, Maintain project development roadmap, Prepare application requirement by communication with clients, Provide the solution to resolve various requirements.
           - Prepared and deployed infrastructure and CI/CD solution on AWS to maintain Laravel SAAS based CRM with separate database multi-tenancy.
@@ -119,7 +119,7 @@ content:
           - Taking part in a squad-oriented environment to develop and Maintain complex web-based applications.
           - Managing existing code base, to include troubleshooting bugs and adding new characteristics
 
-      - layout: right
+      - layout: left
         title: GreenTech International Ltd
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -151,7 +151,7 @@ content:
           - Implementing & Analyzing different SEO tasks as per the defined QA processes and standards.
           - Preparing manuals of Task Processes, analyzing and improvising the procedures used for different tasks.
 
-      - layout: right
+      - layout: left
         title: Xpert Solution
         # link: boringcompany.com
         # link_text: boringcompany.com
