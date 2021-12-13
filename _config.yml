@@ -12,7 +12,7 @@ email: safoor.safdar@gmail.com
 website:
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: safoorsafdar
