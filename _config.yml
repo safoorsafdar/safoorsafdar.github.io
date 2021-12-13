@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   - AWS Certified Cloud Practitioner, Ubuntu, RHEL, Centos and AWZ2, AWS, Azure and GCP cloud services, TeamCity, Gitlab, and DeployBot, Kubernetes using Kubeadm and Kubespray, Docker, Helm, Shell Script, Prometheus, Grafana, containerization.
   - Proficient experience in Infrastructure as code using Terraform, Ansible, and Cloud ops automation using Python for AWS. Monitoring and Observability implementation for AWS, Azure, and on-prem infrastructure/containers orchestration.
 
-  Proficient with PHP, JavaScript/NodeJS, Python, and Golang. Have experience in Laravel, Zend, MEAN and angular, beginner of ReactJS, and desktop application development using Electron. I have experience in large-scale application re-factoring, client communication to get an understanding of the requirement, software architecture, writing unit test cases using PHPUnit, Cypress.
+  Proficient with PHP, JavaScript/NodeJS, Python. Have experience in Laravel, Zend, Magent2, MEAN and angular, beginner of ReactJS, and desktop application development using Electron. I have experience in large-scale application re-factoring, client communication to get an understanding of the requirement, software architecture, writing unit test cases using PHPUnit, Cypress.
 
   In the short run, my objective is to build solid experience in cloud/software architect, cloud infrastructure, software development.
 
@@ -168,6 +168,23 @@ content:
           - Preliminary testing the site to make sure that it is functioning properly.
           - Updating the site with new features, fix application issues and code irregularities.
           - Writing queries and contributing to database design and developments using MySQL.
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Wolters Kluwer
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Consultant Cloud Enginee
+        # caption: Oct 2018 - Present
+        quote: >
+          AWS, Azure, CaaS, Kubernetes, Helm, Docker, Observability using Prometheus, Prometheus Alert 
+          Manager, Grafana, Custom Exporters, Terraform, Ansible, Python, Azure Devops, AKS, EKS.
+        description: |
+          Worked on CaaS (Container as Service), which is an automated platform to deploy kubernetes clusters on AWS and Azure cloud 
+          providers. Along with the cluster few additional security, logging and monitoring components are deployed in each of the
+          clusters. Wrote ansible playbook to automate custom terraform and Helm commands to deploy infrastructure using terraform and components charts using Helm3.
+
 
 # Footer
 footer_show_references: false
