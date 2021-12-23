@@ -40,6 +40,9 @@ additional_links:
   - title: Schedule a Google Meet
     icon: far fa-calendar-plus
     url: https://calendly.com/safoor-safdar/get-to-know
+  - title: Blog
+    icon: fas fa-blog
+    url: https://blog.safoorsafdar.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -56,7 +59,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Cloud Solution Architect / Consultant DevOps with over 11+ years of experience in a fast-paced environment.
 
-  - Working experience on AWS and on-premises, architecting highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
+  - Working experience on AWS and on-premises, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
   - Highly motivated and committed Consultant DevOps experienced in Automating, Configuring, and deploying instances on AWS and on-premises.
   - Strong knowledge and skills in AWS Architecture Design, especially in Production, Development, and Testing environments.
   - 5+ years of application development experience using PHP and JS.
