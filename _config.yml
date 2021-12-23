@@ -8,9 +8,15 @@ version: 2
 # Personal info
 name: Safoor Safdar
 title: Cloud Solution Architect / Consultant DevOps
-email: safoor.safdar@gmail.com
+description: "Hey! I help companies adopt and improve DevOps. I love to optimize infrastructure, applications, and automate dull tasks and implement observability."
+email: talk@safoorsafdar.com
 website:
 
+
+author:
+  name: Safoor Safdar
+  url: https://safoorsafdar.com/
+  twitter: safoorsafdar
 # Dark Mode (true/false/never)
 darkmode: never
 
