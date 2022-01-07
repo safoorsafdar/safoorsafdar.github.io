@@ -179,7 +179,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: left
+      - layout: center
         title: Wolters Kluwer
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -192,7 +192,7 @@ content:
           Worked on CaaS (Container as Service), which is an automated platform to deploy kubernetes clusters on AWS and Azure cloud 
           providers. Along with the cluster few additional security, logging and monitoring components are deployed in each of the
           clusters. Wrote ansible playbook to automate custom terraform and Helm commands to deploy infrastructure using terraform and components charts using Helm3.
-      - layout: right
+      - layout: center
         title: Cloud Management Platform
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -202,7 +202,7 @@ content:
           AWS, Azure, ManageIQ, NodeRed, Kubernetes, Helm, Docker, Observability using Prometheus, Prometheus Alert Manager, Grafana, Custom Exporters, Terraform.
         description: |
           Worked as a Technical Architect, where my responsibility was to manage and guide the team of Cloud engineers. Prepared various cloud platform solutions for AWS and Azure and automate the process of infra deployment through Terraform, NodeRed and ManageIQ.
-      - layout: left
+      - layout: center
         title: My Telenor – Telenor Pakistan
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -212,7 +212,7 @@ content:
           Kubernetes, Helm, Docker, Prometheus, Prometheus Alert Manager, Grafana, Custom Exporters, Git, TFS, Azure DevOps, Android and IOS auto-build, S3.
         description: |
           Prepared the multiple environments Kubernetes cluster using kubeadm. Being a part of the talented team as a DevOps Consultant worked alongside software, security engineers, and Solution architect to build a reliable platform. Prepared the observability implementation plan that includes monitoring infrastructure setup and resource onboarding. Prepared/Performed chaos engineering and platform load testing on the Production Kubernetes cluster. Prepared the power shell and shell scripting for various purposes and custom Prometheus exporters using python and NodeJS.
-      - layout: right
+      - layout: center
         title: Observability Framework – Regeneron Pharmaceuticals Inc.
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -222,7 +222,7 @@ content:
           Kubernetes, Helm, Docker, Prometheus, Prometheus Alert Manager, Grafana, Exporters, Git, Bitbucket, Jenkins, EKS, ECR, EC2, Terraform, S3, DynamoDB, RDS, and CloudWatch.
         description: |
           Prepared the multiple environments Kubernetes cluster using Terraform on EKS for the various accounts. Being a part of the talented team as a DevOps Consultant worked alongside software, security engineers, and Solution architect to build a reliable platform. Prepared the observability implementation plan that includes monitoring infrastructure setup and resource onboarding. Prepared/Performed chaos engineering and platform load testing on EKS Kubernetes cluster for production/staging environment. Prepared the power shell and shell scripting for various purposes and custom Prometheus exporters using python and go-lang.
-      - layout: left
+      - layout: center
         title: Rapid Application Development – Dubai Municipality - Onsite
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -232,7 +232,7 @@ content:
           Kubernetes, Helm, Ansible, Docker, Private Docker Registry, Oracle DB, F5, Mendix, Git/SVN, Gitlab, Chaos engineering, SVN.
         description: |
           Prepared the multiple environments of Kubernetes cluster using Ansible for micro-services Mendix platform on on-premises infrastructure. Being a part of the talented team as DevOps Consultant worked alongside software, security engineers, and Solution architect to build a reliable platform. Prepared the CI/CD on Gitlab for multiple Mendix based applications, and prepared the automated scripts to get the source from SVN to GIT. Prepared/Performed chaos engineering and platform load testing on on-premises Kubernetes cluster for production/staging environment.
-      - layout: right
+      - layout: center
         title: OTT - Telenor
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -243,7 +243,7 @@ content:
         description: |
           Worked on a micro-services architect for bare metal setup on PTCL Cloud using Ansible as DevOps Architect. Being a part of a talented team that works alongside software engineers and security engineers to build a reliable and highly scalable infrastructure.
 
-      - layout: left
+      - layout: center
         title: UNFI Easy Options - UNFI
         # link: boringcompany.com
         # link_text: boringcompany.com
