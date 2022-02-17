@@ -58,11 +58,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Cloud Solution Architect / Consultant DevOps with over 11+ years of experience in a fast-paced environment.
 
-  - Working experience on AWS and on-premises, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
+  - Working experience on `AWS` and `on-premises`, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
   - Highly motivated and committed Consultant DevOps experienced in Automating, Configuring, and deploying instances on AWS and on-premises.
   - Strong knowledge and skills in AWS Architecture Design, especially in Production, Development, and Testing environments.
   - 5+ years of application development experience using PHP and JS.
-  - 6+ years of Consultant DevOps with AWS, GCP, and Azure, on-premise.
+  - 6+ years of Consultant DevOps with `AWS`, `GCP`, and `Azure`, `on-premise`.
   - Solid experience in all the phases of the Software development life cycle starting from requirement gathering, analysis, design, coding, implementation, and support.
   - AWS Certified Cloud Practitioner, Ubuntu, RHEL, Centos and AWZ2, AWS, Azure and GCP cloud services, TeamCity, Gitlab, and DeployBot, Kubernetes using Kubeadm and Kubespray, Docker, Helm, Shell Script, Prometheus, Grafana, containerization.
   - Proficient experience in Infrastructure as code using Terraform, Ansible, and Cloud ops automation using Python for AWS. Monitoring and Observability implementation for AWS, Azure, and on-prem infrastructure/containers orchestration.
